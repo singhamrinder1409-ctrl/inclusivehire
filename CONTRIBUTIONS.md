@@ -17,10 +17,6 @@ Section 4 spans PDF pages 53–60. It specifies role-specific user interfaces, a
 
 The revision history credits Jaiman Singh with the Section 4.1 use-case diagram, Cole Knudsen with the ER diagram and Audri with the data dictionary. Amrinder's contribution to the foreign-key dictionary does not imply sole authorship of the data model or diagrams.
 
-![Team use-case diagram from PDF page 55](docs/use-case-diagram.png)
-
-This image is an unmodified page rendering of the original team document. The team artifact is reproduced with its attribution, not presented as a new implementation or as Amrinder's individual diagram.
-
 ## What a reviewer can inspect
 
 - PDF pages 5–9: revision history and individual contribution records.
@@ -28,6 +24,3 @@ This image is an unmodified page rendering of the original team document. The te
 - PDF pages 67–71: ER diagram, data dictionary, foreign-key and unique-key dictionaries.
 - PDF page 72: unresolved design questions and issues.
 
-## Next steps
-
-A future implementation should turn the interface requirements into acceptance tests, validate the accessibility flows with users, and resolve the documented disclosure, consent and anonymization questions. Requirements about fairness, security, availability and legal compliance are targets, not measured outcomes.
